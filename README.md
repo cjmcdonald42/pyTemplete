@@ -1,5 +1,5 @@
      package:   ribbit.py
-      author:   Charles J McDonald <<cmcdonald@woonsocketschools.com>>
+      author:   Charles J McDonald «cmcdonald@woonsocketschools.com»
         date:   2024.10.12
      version:   0.1
     maturity:   inDev
