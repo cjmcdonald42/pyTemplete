@@ -1,3 +1,3 @@
-This project does not collect any personal data.
+This project does not collect or store any personal data.
 
 None.
