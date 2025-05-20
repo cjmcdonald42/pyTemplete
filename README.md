@@ -1,11 +1,10 @@
      package:   ribbit.py
-      author:   Charles J McDonald «cmcdonald@woonsocketschools.com»
-        date:   2024.10.12
+      author:   Charles J McDonald [«cjmcdonald42»](https://github.com/cjmcdonald42)
+        date:   2025.05.20
      version:   0.1
     maturity:   inDev
 
-# ribbit
-A reimagining of the game Bulls and Cows. Our version uses a swampy theme with frogs and toads.
-Open Source Software Template
+# repoName
+repoDescription
 
-### This work © 2024 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
+### This work © 2025 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
