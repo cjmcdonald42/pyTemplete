@@ -1,5 +1,5 @@
      package:   ribbit.py
-      author:   Charles J McDonald [«cjmcdonald42»](https://github.com/cjmcdonald42)
+      author:   Charles J McDonald «https://github.com/cjmcdonald42»
         date:   2025.05.20
      version:   0.1
     maturity:   inDev
